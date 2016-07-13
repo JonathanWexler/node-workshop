@@ -1,0 +1,18 @@
+{
+  "national_parks":[
+    {
+      "name": "Zion",
+      "state": "Utah",
+      "cost": "30",
+      "image_url": "https://goo.gl/nSaZCR"
+    }
+  ],
+  "outdoor_activities": [
+    {
+      "name": "kayaking",
+      "weather": "hot",
+      "season": "summer",
+      "image_url": "https://goo.gl/rLrwYc"
+    }
+  ]
+}
