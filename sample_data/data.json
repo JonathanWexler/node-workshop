@@ -5,7 +5,63 @@
       "state": "Utah",
       "cost": "30",
       "image_url": "https://goo.gl/nSaZCR"
+    },
+     
+    {
+      "name": "Yellowstone",
+      "state": "Wyoming",
+      "cost": "15",
+      "image_url": "https://goo.gl/Q8JFs8"
+    },
+    {
+      "name": "Yosemite",
+      "state": "California",
+      "cost": "15",
+      "image_url": "https://goo.gl/yUdnNs"
+    },
+    {
+      "name": "Everglades",
+      "state": "Florida",
+      "cost": "26.50",
+      "image_url": "https://goo.gl/ZJ82CJ"
+    },
+     {
+      "name": "Glacier",
+      "state": "Montana",
+      "cost": "12",
+      "image_url": "https://goo.gl/cLYNcy"
+    },
+    {
+      "name": "Arches",
+      "state": "Utah",
+      "cost": "5",
+      "image_url": "https://goo.gl/agUkSD"
+    },
+    {
+      "name": "Sequoia",
+      "state": "California",
+      "cost": "15",
+      "image_url": "https://goo.gl/LRqiKX"
+    },
+    {
+      "name": "Olympic",
+      "state": "Washington",
+      "cost": "7",
+      "image_url": "https://goo.gl/nA51wn"
+    },
+    {
+      "name": "Shanandoah",
+      "state": "Virginia",
+      "cost": "10",
+      "image_url": "https://goo.gl/zWO8hO"
+    },
+     {
+      "name": "Badlands",
+      "state": "South Dakota",
+      "cost": "15",
+      "image_url": "https://goo.gl/e4IqCh"
     }
+      
   ],
   "outdoor_activities": [
     {
@@ -13,6 +69,60 @@
       "weather": "hot",
       "season": "summer",
       "image_url": "https://goo.gl/rLrwYc"
+    },
+    {
+      "name": "tennis",
+      "weather": "mild",
+      "season": ["summer", "spring", "fall"],
+      "image_url": "https://goo.gl/NdcCJX"
+    },
+     {
+      "name": "skiing",
+      "weather": "cold",
+      "season": "winter",
+      "image_url": "https://goo.gl/Ekx0u7"
+    },
+     {
+      "name": "soccer",
+      "weather": "mild",
+      "season": ["summer", "spring", "fall"],
+      "image_url": "http://goo.gl/BvH9Lo"
+    },
+     {
+      "name": "jogging",
+      "weather": "mild",
+      "season": ["summer", "spring", "fall"],
+      "image_url": "https://goo.gl/rpWCdk"
+    },
+    {
+      "name": "basketball",
+      "weather": "mild",
+      "season": ["summer", "spring", "fall"],
+      "image_url": "https://goo.gl/df56FI"
+    },
+    {
+      "name": "snowboarding",
+      "weather": "cold",
+      "season": "winter",
+      "image_url": "http://goo.gl/pFVp96"
+    },
+    {
+      "name": "sledding",
+      "weather": "cold",
+      "season": "winter",
+      "image_url": "http://goo.gl/1lMKhr"
+    },
+    {
+      "name": "water skiing",
+      "weather": "hot",
+      "season": "summer",
+      "image_url": "http://goo.gl/qJILfU"
+    },
+    {
+      "name": "camping",
+      "weather": "mild",
+      "season": ["summer", "spring", "fall"],
+      "image_url": "http://goo.gl/hSpUyO"
     }
   ]
 }

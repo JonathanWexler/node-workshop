@@ -1,0 +1,68 @@
+{
+  "national_parks":[
+    {
+      "name": "Zion",
+      "state": "Utah",
+      "cost": "30",
+      "image_url": "https://goo.gl/nSaZCR"
+    },
+     
+    {
+      "name": "Yellowstone",
+      "state": "Wyoming",
+      "cost": "15",
+      "image_url": "https://goo.gl/Q8JFs8"
+    },
+    {
+      "name": "Yosemite",
+      "state": "California",
+      "cost": "15",
+      "image_url": "https://goo.gl/yUdnNs"
+    },
+    {
+      "name": "Everglades",
+      "state": "Florida",
+      "cost": "26.50",
+      "image_url": "https://goo.gl/ZJ82CJ"
+    },
+     {
+      "name": "Glacier",
+      "state": "Montana",
+      "cost": "12",
+      "image_url": "https://goo.gl/cLYNcy"
+    },
+    {
+      "name": "Arches",
+      "state": "Utah",
+      "cost": "5",
+      "image_url": "https://goo.gl/agUkSD"
+    },
+    {
+      "name": "Bryce Canyon",
+      "state": "Utah",
+      "cost": "15",
+      "image_url": "https://goo.gl/jMs1an"
+    },
+    {
+      "name": "Sequoia",
+      "state": "California",
+      "cost": "15",
+      "image_url": "https://goo.gl/LRqiKX"
+    },
+    {
+      "name": "Olympic",
+      "state": "Washington",
+      "cost": "7",
+      "image_url": "https://goo.gl/LRqiKX"
+    }
+      
+  ],
+  "outdoor_activities": [
+    {
+      "name": "kayaking",
+      "weather": "hot",
+      "season": "summer",
+      "image_url": "https://goo.gl/rLrwYc"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <a href="/parks"> All Parks</a> <br>
+    <% parks.forEach(function(p){%>
+      <a href="/park/<%= p.name %>">
+        <p>Welcome to <%= p.name %></p>
+        <img src="<%= p.image_url%>">
+      </a>
+    <% });%>
+
+    <form method="POST" action="/park">
+      <input type="text" name="name">
+      <input type="submit" name="submit">
+    </form>
+  </body>
+</html>
