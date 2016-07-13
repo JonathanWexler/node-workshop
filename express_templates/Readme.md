@@ -1,0 +1,5 @@
+- Make sure you have node installed
+- Navigate inside of the express_example folder
+- run `npm install`
+- run `node app`
+- check out the app at http://localhost:3000
