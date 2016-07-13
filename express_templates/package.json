@@ -1,5 +1,5 @@
 {
-  "name": "express-routes",
+  "name": "express-templates",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,6 +9,7 @@
   "author": "Jon Wexler",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.4.2",
     "express": "^4.14.0"
   }
 }
